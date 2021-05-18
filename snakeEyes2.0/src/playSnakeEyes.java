@@ -22,7 +22,6 @@ public class playSnakeEyes {
 		return PirateTotal;
 	}
 	
-	
 	public int[] Roll() {
 		int [] Dice = new int[2];
 		Dice[0] = (int)(Math.random()*6 +1);
@@ -139,10 +138,10 @@ public class playSnakeEyes {
 		return value;
 	}
 	
-	public void main(String[] args) {
+	/*public void main(String[] args) {
 		playSnakeEyes TestSnake = new playSnakeEyes(25);
 		int penalty = TestSnake.SnakeEyes();
 		System.out.println(penalty);
-	}
+	}*/
 }
 
