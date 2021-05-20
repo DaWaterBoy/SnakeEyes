@@ -4,5 +4,6 @@
 	<classpathentry kind="src" path="SnakeEyes/src"/>
 	<classpathentry kind="src" path="snakeEyes2.0/src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
 	<classpathentry kind="output" path="SnakeEyes/bin"/>
 </classpath>

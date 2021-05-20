@@ -1,18 +1,17 @@
-import org.junit.jupiter.api.Test;
+/*import org.junit.jupiter.api.Test;
 
-/**
- * 
- */
 
 /**
  * @author Josef
  *
  */
+/*
 class playSnakeEyesTest {
 
 	/**
 	 * Test method for {@link playSnakeEyes#Roll()}.
 	 */
+/*
 	@Test
 	void testRoll() {
 		playSnakeEyes TestSnake = new playSnakeEyes(25);
@@ -32,6 +31,7 @@ class playSnakeEyesTest {
 		int score = TestSnake.PirateTurn(0);
 		System.out.println("The Pirates score is now " + score);
 	}*/
+/*
 	@Test
 	void FullTest() {
 		playSnakeEyes TestSnake = new playSnakeEyes(25);
@@ -40,3 +40,4 @@ class playSnakeEyesTest {
 	}
 
 }
+*/
